@@ -1,0 +1,8 @@
+- Int: 64bit 정수형
+- UInt: 부호가 없는 64bit 정수형
+- Float 32bit 부동 소수점
+- Dobule: 64bit 부동 소수점
+- Bool: true, false 값
+- Charater: 문자
+- String: 문자열
+- Any: 모든 타입을 지칭하는 키워드
